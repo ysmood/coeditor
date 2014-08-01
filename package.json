@@ -1,0 +1,23 @@
+{
+  "name": "coeditor",
+  "version": "0.0.1",
+  "description": "cooperate editor",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysmood/coeditor.git"
+  },
+  "author": "entry point: (index.js)",
+  "license": "test command: npm test",
+  "bugs": {
+    "url": "https://github.com/ysmood/coeditor/issues"
+  },
+  "homepage": "https://github.com/ysmood/coeditor",
+  "keywords": [
+    "cooperate",
+    "editor"
+  ]
+}
